@@ -1,2 +1,2 @@
 # richrp_joblisting
-Nadawanie pracy pod secondjob.
+Skrypt na nadawanie jobów, wykonany pod secondjob; Nie zezwalam za sprzedaz ;) 
